@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { Contract, providers, utils } from "ethers";
 import React, { useEffect, useRef, useState } from "react";
